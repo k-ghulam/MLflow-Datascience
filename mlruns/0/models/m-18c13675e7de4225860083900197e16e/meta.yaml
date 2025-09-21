@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ghulam/Desktop/laskut/datascienceproject/mlruns/0/models/m-18c13675e7de4225860083900197e16e/artifacts
+creation_timestamp: 1758336248238
+experiment_id: '0'
+last_updated_timestamp: 1758336263310
+model_id: m-18c13675e7de4225860083900197e16e
+model_type: null
+name: model
+source_run_id: fa885a23ff1f450680231a268f393439
+status: 2
+status_message: null
